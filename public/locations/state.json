@@ -1,0 +1,26 @@
+[
+    {
+        "name": "گلستان",
+        "_id": "golestan"
+    },
+    {
+        "name": "تهران",
+        "_id": "tehran"
+    },
+    {
+        "name": "شیراز",
+        "_id": "shiraz"
+    },
+    {
+        "name": "مازندران",
+        "_id": "mozandaran"
+    },
+    {
+        "name": "اصفحان",
+        "_id": "isfehan"
+    },
+    {
+        "name": "خراسان",
+        "_id": "khorasan"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "گرگان",
+        "_id": "golestan",
+        "parent":"golestan"
+    },
+    {
+        "name": "آزادشهر",
+        "_id": "azadshahr",
+        "parent":"golestan"
+    },
+    {
+        "name": "کردکو",
+        "_id": "kordkoo",
+        "parent":"golestan"
+    },
+    {
+        "name": "بندرگز",
+        "_id": "bandargaz",
+        "parent":"golestan"
+    },
+    {
+        "name": "بندرترکمن",
+        "_id": "bandartorkman",
+        "parent":"golestan"
+    },
+    {
+        "name": "گنبد",
+        "_id": "gonbad",
+        "parent":"golestan"
+    },
+    {
+        "name": "تهران",
+        "_id": "tehran",
+        "parent":"tehran"
+    },
+    {
+        "name": "شهریار",
+        "_id": "shahriar",
+        "parent":"tehran"
+    },
+    {
+        "name": "اسلامشهر",
+        "_id": "islamshahr",
+        "parent":"tehran"
+    },
+    {
+        "name": "بهارستان",
+        "_id": "baharestan",
+        "parent":"tehran"
+    },
+    {
+        "name": "ملارد",
+        "_id": "melard",
+        "parent":"tehran"
+    },
+    {
+        "name": "پاکدشت",
+        "_id": "pakdasht",
+        "parent":"tehran"
+    }
+]

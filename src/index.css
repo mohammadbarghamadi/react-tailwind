@@ -27,4 +27,13 @@ label {
   .nav-ul-link {
     @apply px-4 py-2 duration-100 text-[14px] rounded-[4px] hover:bg-slate-700 hover:text-white;
   }
+
+  .primary-btn {
+    @apply px-6 py-2 duration-100 text-white bg-slate-900 hover:bg-orange-400;
+  }
+
+  .home-page-search-form {
+    @apply bg-white bg-opacity-[0.7] px-4 py-8 w-[880px] rounded-md shadow-2xl border-[1px] border-solid border-[#666] flex flex-wrap justify-between mb-12;
+  }
+
 }

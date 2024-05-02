@@ -1,0 +1,62 @@
+[
+    {
+        "name": "امامرضا",
+        "_id": "",
+        "parent":"gorgan"
+    },
+    {
+        "name": "صیاد",
+        "_id": "sayad",
+        "parent":"gorgan"
+    },
+    {
+        "name": "سروش",
+        "_id": "soroush",
+        "parent":"gorgan"
+    },
+    {
+        "name": "آپادانا",
+        "_id": "apadana",
+        "parent":"gorgan"
+    },
+    {
+        "name": "ولیعصر",
+        "_id": "valiasr",
+        "parent":"gorgan"
+    },
+    {
+        "name": "جانبازان",
+        "_id": "janbazan",
+        "parent":"gorgan"
+    },
+    {
+        "name": "تجریش",
+        "_id": "tajrish",
+        "parent":"tehran"
+    },
+    {
+        "name": "تهرانپارس",
+        "_id": "tehranpars",
+        "parent":"tehran"
+    },
+    {
+        "name": "تهران نو",
+        "_id": "tehranno",
+        "parent":"tehran"
+    },
+    {
+        "name": "نارمک",
+        "_id": "narmak",
+        "parent":"tehran"
+    },
+    {
+        "name": "کن",
+        "_id": "kan",
+        "parent":"tehran"
+    },
+    {
+        "name": "نازی‌آباد",
+        "_id": "naziabad",
+        "parent":"tehran"
+    }
+]

@@ -3,7 +3,7 @@ import HomePage from "./pages/home"
 
 const App = () => {
     return (
-        <main style={{ direction: "rtl" }}>
+        <main style={{ direction: "rtl" }} className="relative">
             <Header />
             <HomePage />
         </main>
